@@ -1,5 +1,6 @@
 <?php
 
+
 return   [
     'type'      => 'png',                                         // jpeg|png|gif|bmp
     'width'     => '100',
